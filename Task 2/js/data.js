@@ -1,0 +1,80 @@
+var data = {
+    "upcoming_events": [
+        {
+            "date": "August 4th",
+            "event": "NYSL Fundraiser"
+        },
+        {
+            "date": "August 16th",
+            "event": "Season Kick-off: Meet the Teams"
+        },
+        {
+            "date": "September 1st",
+            "event": "First Game of the Season (Check Game Schedule for details)"
+        }
+    ],
+
+
+
+    "teams": [
+        {
+            "name": "Boca Juniors",
+            "icon": "./assets/teams/boca_juniors.png"
+        },
+        {
+            "name": "River Plate",
+            "icon": "./assets/teams/river_plate.png"
+        },
+        {
+            "name": "Independiente",
+            "icon": "./assets/teams/independiente.png"
+        },
+        {
+            "name": "Racing Club",
+            "icon": "./assets/teams/racing.png"
+        },
+        {
+            "name": "Almirante Brown",
+            "icon": "./assets/teams/almirante_brown.png"
+        },
+        {
+            "name": "Nueva Chicago",
+            "icon": "./assets/teams/nueva_chicago.png"
+        }
+    ],
+
+
+    
+    "lastest_games": [
+        {
+            "team1": "River Plate",
+            "score1": "4",
+            "team2": "Boca Juniors",
+            "score2": "3"
+        },
+        {
+            "team1": "Racing Club",
+            "score1": "2",
+            "team2": "Independiente",
+            "score2": "2" 
+        },
+        {
+            "team1": "Almirante Brown",
+            "score1": "0",
+            "team2": "Nueva Chicago",
+            "score2": "0" 
+        },
+        {
+            "team1": "Boca Juniors",
+            "score1": "1",
+            "team2": "Almirante Brown",
+            "score2": "7" 
+        },
+        {
+            "team1": "River Plate",
+            "score1": "4",
+            "team2": "Nueva Chicago",
+            "score2": "1" 
+        }
+    ]
+}
